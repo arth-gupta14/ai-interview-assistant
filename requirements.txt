@@ -1,4 +1,4 @@
-streamlit as st
-google.generativeai as genai
+streamlit
+google.generativeai
 pdfplumber
 random
